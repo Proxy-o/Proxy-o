@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm othmane</h1>
-<h3 align="center">I am currently a 42 Network student , I am A passionate full stack developer from Morocco</h3>
-<p href="https://github.com/oakoudad/badge42" align="center"><img src="https://badge.mediaplus.ma/darkblue/otait-ta" alt="otait-ta's 42 stats"  /></p>
-<br/>
-<p align="center" > <img src="https://komarev.com/ghpvc/?username=othmane-ait-taleb&label=Profile%20views&color=0eb445&style=flat" alt="othmane-ait-taleb" /> </p>
+<h3 align="center">  I am A passionate full stack developer from Morocco</h3>
 
-
-- 🔭 I’m currently working on **many projects to build my portfolio.**
 
 - 🌱 I’m currently learning **new technologies like Ruby and c++ ...**
 
