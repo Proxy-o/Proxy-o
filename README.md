@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **new technologies like Ruby and c++ ...**
 
-- 👨‍💻 All of my projects are available at [https://otait-ta.vercel.app/](https://othmane-tawny.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://othmane-ait-taleb.vercel.app/](https://othmane-ait-taleb.vercel.app/)
 
 - 💬 Ask me about **Reactjs, Nextjs, Typescript, Firebase, and Mongodb**
 
